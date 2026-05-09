@@ -1,0 +1,84 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Visual Studio user-specific settings
+*.user
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+# Build output directories
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Object and intermediate files
+*.obj
+*.ilk
+*.lib
+*.pdb
+*.res
+*.exp
+
+# Executable files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Assembly intermediate files
+*.asm.o
+*.o
+
+# Visual Studio project user files
+.vs/
+*.sln.user
+
+# Build artifacts
+coal_proj.exe
+coal_proj.ilk
+coal_proj.pdb
+
+# Recipe and file list
+*.recipe
+*.FileListAbsolute.txt
+
+# Local adventure logs (optional - uncomment if you want to track these)
+# adventure_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+*.swp
+*.swo
+*.*~
+
+# npm or node_modules (if any Node tooling is used)
+node_modules/
+package-lock.json
+
+# Python cache (if any Python scripts are used)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# MacOS specific
+.AppleDouble
+.LSOverride
+
+# Linux specific
+.directory
+
