@@ -37,9 +37,9 @@ A 2D maze navigation game built in **x86-32 Assembly Language** using the Kip Ir
 - **Maze Generation**: Procedurally generated 100×150 grid with procedural placement of walls, buildings, lakes, coins, hazard tiles, keys, and destination
 - **Navigation**: Cardinal direction movement (up, down, left, right) with boundary collision detection
 - **Collectibles**:
-  - 🪙 **Coins (C)**: Increment wallet, tracked in adventure log
-  - 🔑 **Key (K)**: Required to win; can be lost on stumble hazard
-  - 🏚️ **Destination (D)**: Win goal; requires key to succeed
+  - **Coins (C)**: Increment wallet, tracked in adventure log
+  - **Key (K)**: Required to win; can be lost on stumble hazard
+  - **Destination (D)**: Win goal; requires key to succeed
 
 ### Hazards & Obstacles
 
