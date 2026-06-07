@@ -295,11 +295,11 @@ This project was developed as a capstone assignment for a **Computer Organizatio
 
 ## Author Contact
 
-- **Sameer Ahmed** (Team Lead)  
+- **Sameer Ahmed**   
   GitHub: [https://github.com/sameer7075](https://github.com/sameer7075)
 
-- **Abdul Hannan** (Team Member)  
-  GitHub: [https://github.com/abdulhannan7]
+- **Abdul Hannan**   
+  GitHub: [https://github.com/ahkhan2706-Khan]
 
 ---
 
